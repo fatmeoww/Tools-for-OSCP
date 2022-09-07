@@ -11,3 +11,6 @@ Lists tools
 version 2.1 link https://github.com/allandev5959/mimikatz-2.1.1
 
 4.Rubeus : compile version of GhostPack https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
+
+5.nc 64/32bit download source
+
