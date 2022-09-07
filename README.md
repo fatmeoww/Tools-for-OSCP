@@ -6,3 +6,6 @@ Lists tools
 
 
 2.winPEAS : official link https://github.com/carlospolop/PEASS-ng/releases
+
+3.mimikatz : official link https://sourceforge.net/projects/mimikatz.mirror/files/
+https://github.com/allandev5959/mimikatz-2.1.1
