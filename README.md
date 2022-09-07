@@ -7,6 +7,7 @@ Lists tools
 
 2.winPEAS : official link https://github.com/carlospolop/PEASS-ng/releases
 
-3.mimikatz : official link https://sourceforge.net/projects/mimikatz.mirror/files/
+3.mimikatz : official link https://sourceforge.net/projects/mimikatz.mirror/files/ 
+version 2.1 link https://github.com/allandev5959/mimikatz-2.1.1
 
-     link https://github.com/allandev5959/mimikatz-2.1.1
+4.Rubeus : compile version of GhostPack https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
