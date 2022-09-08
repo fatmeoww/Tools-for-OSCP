@@ -14,7 +14,8 @@ open server on kali :
 ./chisel server -p <Local_Attacker_Port> --socks5 --reverse
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75a68da9-5a6f-4ac9-9110-b9fca3510271/Untitled.png)
+![image](https://user-images.githubusercontent.com/55615071/189031440-23102649-c833-4ace-a1a0-10f33dc3388e.png)
+
 
 upload chisel.exe to windows target and run following command.
 
