@@ -14,3 +14,5 @@ version 2.1 link https://github.com/allandev5959/mimikatz-2.1.1
 
 5.nc 64/32bit download source
 
+6.Invoke Ports scan : official like https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon 
+
