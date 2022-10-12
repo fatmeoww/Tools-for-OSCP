@@ -4,7 +4,11 @@ download **[chisel_1.7.7_linux_amd64.gz](https://github.com/jpillora/chisel/rele
 
 prepare chisel server on kali : 
 
-fix /etc/proxychains4.conf by comment on sock4 and push sock5 (1080 default port
+fix /etc/proxychains4.conf by comment on sock4 and push sock5 (1080 default port)
+
+```bash
+nano /etc/proxychains4.conf
+```
 
 ![image](https://user-images.githubusercontent.com/55615071/195266565-7de8038a-0d45-4bc4-bf74-b1fca7f69165.png)
 
